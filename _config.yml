@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alvaro Carril
-email: acarril at princeton dot edu
+title: Pia Arce Hasbun
+email: parcehasbun at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a PhD student at Princeton. I work with computers.
+  M.Sc. Economics / Economic Consultant
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://acarril.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: acarrilr
-github_username:  acarril
+url: "https://parceh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: piaarcehasbun
+github_username:  parceh
 github: [metadata]
-repository: acarril/acarril.github.io
+repository: parceh/parceh.github.io
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
@@ -45,8 +45,8 @@ plugins:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Goto Github repo >":
-    - "//github.com/acarril"
+  "Go to Github repo for this website >":
+    - "//github.com/parceh"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
