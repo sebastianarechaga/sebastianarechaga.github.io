@@ -11,7 +11,7 @@ nav_order: 1
 I'm Pia Arce. Welcome to my website. Here you can find ... 
 {: .fs-6 .fw-300 }
 
-<img src="/assets/images/ilikehike1.jpg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpg';" class="wrapped-float rounded"/>
+<img src="/assets/images/ilikehike1.jpeg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpeg';" class="wrapped-float rounded"/>
 
 My main (research) interests revolve around reducing inequalities and improving the efficiency of markets that are heavily influenced ---or controlled--- by the public sector.
 I'm particularly interested in studying the relationship between education and labor markets.
