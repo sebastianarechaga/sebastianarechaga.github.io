@@ -8,7 +8,7 @@ nav_order: 1
 
 # Welcome!
 
-I'm Alvaro Carril, a PhD student at the Economics Department of Princeton University.
+I'm Pia Arce. Welcome to my website. Here you can find ... 
 {: .fs-6 .fw-300 }
 
 <img src="/assets/images/acarril-princeton.jpg" onmouseover="this.src='assets/images/broccoli.jpg';" onmouseout="this.src='/assets/images/acarril-princeton.jpg';" class="wrapped-float rounded"/>
