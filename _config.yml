@@ -45,7 +45,7 @@ plugins:
 
 # Aux links for the upper right navigation
 aux_links:
-  "Go to Github repo for this website >":
+  " Find website Github repo here >":
     - "//github.com/parceh"
 
 # Makes Aux links open in a new tab. Default is false
