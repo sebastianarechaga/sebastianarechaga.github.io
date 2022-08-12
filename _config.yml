@@ -34,7 +34,7 @@ repository: parceh/parceh.github.io
 ga_tracking: UA-54241026-2
 
 # Color scheme (customs are defined in _sass/color_schemes/)
-color_scheme: myblu
+color_scheme: mycolors
 
 # Build settings
 # theme: "just-the-docs"
