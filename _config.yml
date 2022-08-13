@@ -70,16 +70,16 @@ compress_html:
 collections:
   research:
     output: true
-    permalink: /research/:title
+    permalink: /holi/:title
 
 # Defaults
 permalink: /posts/:title # posts default
 defaults:
   - scope:
       path: ""
-      type: "research"
+      type: "holi"
     values:
-      layout: research
+      layout: holi
 
 exclude:
   - backup
