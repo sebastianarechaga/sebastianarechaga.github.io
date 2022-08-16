@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: This is my fist post 
+title: "This is my fist post" 
 categories: write
 permalink: /posts/write_test_1
 draft: true
