@@ -11,7 +11,7 @@ nav_order: 1
 I'm Pia Arce. Welcome to my website. Here you can find ... 
 {: .fs-6 .fw-300 }
 
-<img src="/assets/images/ilikehike1squared.jpeg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpeg';" class="wrapped-float rounded"/>
+<img src="/assets/images/ilikehike1.jpeg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpeg';" class="wrapped-float rounded"/>
 
 BlaBla BLa .. 
 
