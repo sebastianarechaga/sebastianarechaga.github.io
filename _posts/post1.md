@@ -7,5 +7,5 @@ permalink: /posts/write_test_1
 draft: true
 ---
 
-This is my first post title 
+# This is my first post title 
 hello world!
