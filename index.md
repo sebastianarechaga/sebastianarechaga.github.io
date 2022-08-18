@@ -8,7 +8,7 @@ nav_order: 1
 
 # Welcome!
 
-Hello! I'm Sebastián Arechaga. Welcome to my website. Here you can find ... 
+Hello! I'm Sebastián Arechaga Garcés. Welcome to my website. Here you can find ... 
 {: .fs-6 .fw-300 }
 
 <img src="/assets/images/SebatianArechagaGarces.jpg" class="wrapped-float rounded"/>
