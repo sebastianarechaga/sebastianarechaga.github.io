@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pia Arce Hasbun
-email: parcehasbun at gmail dot com
+title: Sebastián Arechaga
+email: sebastian_arechaga at berkeley dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  M.Sc. Economics / Economic Consultant
+  M.Sc. Economics / Ph.D. Student
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://parceh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: piaarcehasbun
-github_username:  parceh
+twitter_username: sarechaga
+github_username:  sebastianarechaga
 github: [metadata]
-repository: parceh/parceh.github.io
+repository: sebastianarechaga/sebastianarechaga.github.io
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
