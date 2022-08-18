@@ -23,7 +23,7 @@ email: sebastian_arechaga at berkeley dot com
 description: >- # this means to ignore newlines until "baseurl:"
   M.Sc. Economics / Ph.D. Student
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://parceh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sebastianarechaga.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sarechaga
 github_username:  sebastianarechaga
 github: [metadata]
@@ -46,7 +46,7 @@ plugins:
 # Aux links for the upper right navigation
 aux_links:
   " Find website Github repo here >":
-    - "//github.com/parceh"
+    - "//github.com/sebastianarechaga"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
