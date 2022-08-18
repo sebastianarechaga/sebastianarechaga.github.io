@@ -13,7 +13,7 @@ Hello! I'm Sebastián Arechaga Garcés. Welcome to my website. Here you can find
 
 <img src="/assets/images/SebatianArechagaGarces.jpg" class="wrapped-float rounded"/>
 
-BlaBla BLa .. 
+Here you will se the description of my interests. Soon ?
 
 ## About this site
 
