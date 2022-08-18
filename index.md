@@ -8,10 +8,10 @@ nav_order: 1
 
 # Welcome!
 
-Hello! I'm Pia Arce. Welcome to my website. Here you can find ... 
+Hello! I'm Sebastián Arechaga. Welcome to my website. Here you can find ... 
 {: .fs-6 .fw-300 }
 
-<img src="/assets/images/ilikehike1.jpeg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpeg';" class="wrapped-float rounded"/>
+<img src="/assets/images/SebatianArechagaGarces.jpg" onmouseover="this.src='assets/images/botticelli.jpg';" onmouseout="this.src='/assets/images/ilikehike1.jpeg';" class="wrapped-float rounded"/>
 
 BlaBla BLa .. 
 
